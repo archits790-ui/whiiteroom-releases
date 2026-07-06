@@ -1,0 +1,8 @@
+version: 1.1.1
+files:
+  - url: Whiiteroom-Windows-1.1.1-Setup.exe
+    sha512: WKaMCyaqJYFdz0G5RRAKGe9yRurOvCshkTO/Ct7EYN/BNtsOEablS0zmTcZy5ib79GzSYiGyzm3tDSHEwHClBw==
+    size: 81981703
+path: Whiiteroom-Windows-1.1.1-Setup.exe
+sha512: WKaMCyaqJYFdz0G5RRAKGe9yRurOvCshkTO/Ct7EYN/BNtsOEablS0zmTcZy5ib79GzSYiGyzm3tDSHEwHClBw==
+releaseDate: '2026-07-06T13:45:28.247Z'
